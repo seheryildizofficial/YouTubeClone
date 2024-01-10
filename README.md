@@ -8,11 +8,10 @@
 - millify
 - moment
 - react-player
-- tailwind 
+- tailwind
 
 <h2>Kaynaklar</h2>
 
 - API: https://rapidapi.com/ytjar/api/yt-api
 
-
-![](pro.gif)# YouTubeClone
+![](/public/proo.gif)
